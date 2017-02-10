@@ -1,5 +1,5 @@
 ## Chef Remote
-Chef Remote allows you to use chef-solo without having to create all the associated scaffolding that goes with the tool. Instead, you can simpley download this repository, replace the included scripts with your own, an then call the `deploy` script.
+Chef Remote allows you to use chef-solo without having to create all of the associated scaffolding that goes along with the tool. Instead, you can simply download this repository, replace the included scripts with your own, an then call the `deploy` script.
 
 ## Installation
 Clone the repo with `git clone https://github.com/phmullins/chef/chef-remote.git`
